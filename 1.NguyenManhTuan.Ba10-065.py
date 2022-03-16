@@ -1,4 +1,3 @@
-
 print("         Mark management         ")
  
 def addStudent():
